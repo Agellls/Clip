@@ -1,0 +1,10 @@
+fastapi==0.100.0
+uvicorn[standard]==0.22.0
+pydantic==1.10.11
+python-dotenv==1.0.0
+yt-dlp==2025.10.1
+requests==2.31.0
+# Optional / recommended for local transcription - don't force-install heavy models here.
+# If you use faster-whisper or whisper locally, add them in a custom build or use a GPU image.
+#faster-whisper
+#openai-whisper

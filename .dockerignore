@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+*.sqlite3
+*.log
+*.mp4
+*.wav
+*.ass
+tmp*
+.vscode
+.git
